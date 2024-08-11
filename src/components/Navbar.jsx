@@ -12,7 +12,7 @@ const Navbar = () => {
         />
       </div>
       <div className='flex items-center space-x-4'>
-        <a href='https://in.linkedin.com/in/himanshu-sugha' target='_blank' rel='noopener noreferrer'>
+        <a href='https://www.linkedin.com/in/himanshu-sugha-80438725a/' target='_blank' rel='noopener noreferrer'>
           <FaLinkedin className='text-white text-4xl mx-2' />
         </a>
         <a href='https://github.com/himanshu-sugha' target='_blank' rel='noopener noreferrer'>
