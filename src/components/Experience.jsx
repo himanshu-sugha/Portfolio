@@ -20,7 +20,7 @@ const Experience = () => {
           className="flex items-center mb-6"
         >
           <div className="w-24 mr-4 text-center">
-            <span className="text-gray-400">2022 - Present</span>
+            <span className="text-gray-400">2022 - 2024</span>
           </div>
           <div>
             <h3 className="text-2xl font-semibold">Executive Member, Team MATCOM</h3>
